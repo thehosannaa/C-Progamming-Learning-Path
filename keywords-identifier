@@ -1,0 +1,59 @@
+In this tutorial, you will learn about keywords; reserved words in C programming that are part of the syntax. Also, you will learn about identifiers and how to name them.
+Character set
+
+A character set is a set of alphabets, letters and some special characters that are valid in C language.
+Alphabets
+
+Uppercase: A B C ................................... X Y Z
+Lowercase: a b c ...................................... x y z
+
+C accepts both lowercase and uppercase alphabets as variables and functions.
+Digits
+
+0 1 2 3 4 5 6 7 8 9
+
+Special Characters
+Special Characters in C Programming
+	,
+				<
+				>
+				.
+				_
+		
+(
+				)
+				;
+				$
+				:
+		
+%
+				[
+				]
+				#
+				?
+		
+'
+				&
+				{
+				}
+				"
+		
+^
+				!
+				*
+				/
+				|
+		
+-
+				\
+				~
+				+
+				 
+		
+
+White space Characters
+
+Blank space, newline, horizontal tab, carriage return and form feed.
+C Keywords
+
+Keywords are predefined, reserved words used in programming that have special meanings to the compiler. Keywords are part of the syntax and they cannot be used as an identifier. For example:
